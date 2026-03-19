@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there! I'm Parimal Swami 👋
+
+- 🎓 **Year & Branch:** First-Year B.Tech Student, Computer Science and Engineering (Core)
+- 🚀 **Goals:** I am focusing on building strong foundational skills in coding and programming, specifically exploring advanced concepts in Java to prepare for future projects.
 
 <!--
 **parimal25bce10527-ai/parimal25bce10527-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
